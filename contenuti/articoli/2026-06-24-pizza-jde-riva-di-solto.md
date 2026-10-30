@@ -8,7 +8,7 @@ voto: 30
 produttore: "JDE, Riva di Solto"
 negozio: "JDE, Riva di Solto Bergamo"
 sommario: "Pizza al JDE di Riva di Solto: cornicione sviluppato, fiordilatte generoso, ma il pomodoro pronto prespeziato rovina tutto. 30/60"
-copertina: "/contenuti/img/2026/05/JDE-Riva-di-Solto-—-Pizza-Margherita-scaled.jpg"
+copertina: "/img/2026/05/jde-riva-di-solto-pizza-margherita.webp"
 slug: "pizza-jde-riva-di-solto"
 edg_url: "https://www.errantedelgusto.it/post/pizza-jde-riva-di-solto/"
 ---
