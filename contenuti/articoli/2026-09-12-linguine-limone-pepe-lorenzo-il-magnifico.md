@@ -8,7 +8,7 @@ voto: 20
 produttore: "Le Specialità di Lorenzo il Magnifico PI"
 negozio: "Conad Clusone BG"
 sommario: "Linguine limone e pepe Conad: l'etichetta promette Sicilia, gli ingredienti dicono altro. Assaggio e verdetto Archivio del gusto su Errante del Gusto."
-copertina: "/contenuti/img/2026/07/Linguine-Limone-e-Pepe-—-la-promessa-sul-fronte.jpg"
+copertina: "/img/2026/07/linguine-limone-e-pepe-la-promessa-sul-fronte.webp"
 slug: "linguine-limone-pepe-lorenzo-il-magnifico"
 edg_url: "https://www.errantedelgusto.it/post/linguine-limone-pepe-lorenzo-il-magnifico/"
 ---

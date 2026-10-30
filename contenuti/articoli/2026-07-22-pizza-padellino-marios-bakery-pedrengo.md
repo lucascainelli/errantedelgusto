@@ -8,7 +8,7 @@ voto: 40
 produttore: "Mario's Bakery"
 negozio: "Mario's Bakery, Pedrengo (BG)"
 sommario: "Pizza in padellino fotografata in esterno. Impasto alto e ben lievitato, pomodorini e olive nere. Mario's Bakery, Pedrengo (BG). Archivio del gusto"
-copertina: "/contenuti/img/2026/06/Pizza-in-padellino-–-Marios-Bakery-Pedrengo-BG-scaled.jpg"
+copertina: "/img/2026/06/pizza-in-padellino-marios-bakery-pedrengo.webp"
 slug: "pizza-padellino-marios-bakery-pedrengo"
 edg_url: "https://www.errantedelgusto.it/post/pizza-padellino-marios-bakery-pedrengo/"
 ---
