@@ -1,6 +1,6 @@
 ---
 titolo: "Caviale Dossi sull'uovo dal cuore morbido"
-data: 2026-11-06T06:00:00
+data: 2026-11-18T06:00:00
 categorie: ["Retrogusto"]
 tag: ["caviale", "caviale dossi", "senza conservanti", "tartufo bianco", "uovo alla coque"]
 rubrica: "Retrogusto"
