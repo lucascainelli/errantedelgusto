@@ -15,12 +15,12 @@ Errante del Gusto è l'archivio di quei giri: oltre seicento assaggi, ristoranti
 
 Ogni tappa ha un voto da 20 a 60. Non è un voto scolastico: pesa il piatto, l'accoglienza e la sincerità di ciò che ho trovato. Il resto sono i fatti, scritti come li ho visti.
 
-L'appuntamento fisso è il **martedì**: un articolo per andare al cuore di un prodotto o di un luogo.
+L'appuntamento fisso è il **martedì**: un articolo libero su cibo e società.
 
 ## Il resto del lavoro
 
 Dall'aglio ho fatto un'associazione, [Vampiri Italiani](https://vampiriitaliani.it/): è lì che oggi vive la parte più viva del mio lavoro.
 
-Per le consulenze indipendenti — valutazione di prodotti, formazione, costruzione di assortimenti — scrivimi.
+Per le consulenze indipendenti — valutazione di prodotti, formazione, costruzione di assortimenti — [luca-scainelli.it](https://luca-scainelli.it/).
 
 [Ultimo assaggio](/)
