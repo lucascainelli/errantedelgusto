@@ -226,8 +226,12 @@ function elenco({ titolo, eyebrow, articoli, url, descrizione, nomeCat, pag = 1,
 function paginaAssaggio(a, nomeCat) {
   const v = a.voto && VOTI[a.voto];
   const meta = [];
-  const dA = a.dataAssaggio ? new Date(a.dataAssaggio) : a.data;
-  meta.push(`<div><strong>Assaggio:</strong> ${isNaN(dA) ? dataIT(a.data) : dataIT(dA)}</div>`);
+  // data_assaggio può essere una data vera (dall'editor) o testo libero ("venerdì 20 febbraio 2026"): il testo si mostra com'è
+  const v0 = a.dataAssaggio;
+  const dAss = v0 instanceof Date ? dataIT(v0)
+    : /^\d{4}-\d{2}-\d{2}/.test(String(v0)) ? dataIT(new Date(String(v0)))
+    : v0 ? String(v0).charAt(0).toUpperCase() + String(v0).slice(1) : dataIT(a.data);
+  meta.push(`<div><strong>Assaggio:</strong> ${esc(dAss)}</div>`);
   if (a.produttore) meta.push(`<div><strong>Produttore:</strong> ${esc(a.produttore)}</div>`);
   if (a.negozio) meta.push(`<div><strong>Negozio:</strong> ${esc(a.negozio)}</div>`);
   const tag = a.tag.length ? `<div class="mb-8"><h3 class="text-lg font-bold text-gray-800 mb-3">🏷️ Tag</h3><div class="flex flex-wrap gap-2">${a.tag.map((t) => `<a class="tag-pill" href="${u(`/tag/${t.slug}/`)}">${esc(t.nome)}</a>`).join('')}</div></div>` : '';
