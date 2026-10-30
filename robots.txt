@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lucascainelli.github.io/errantedelgusto/sitemap.xml
