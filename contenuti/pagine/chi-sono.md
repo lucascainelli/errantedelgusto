@@ -3,25 +3,24 @@ titolo: "Chi Sono"
 slug: "chi-sono"
 ---
 
-![](/contenuti/img/2026/02/luca-scainelli-errante-del-gusto-1024x768.jpg)
+![Luca Scainelli](/img/pagine/luca-scainelli.webp)
 
 ## Chi sono
 
-Erro da 35 anni per scoprire l'anima di un luogo attraverso ciò che mette nel piatto e nel bicchiere. Non viaggio per spuntare una lista. Cerco la verità di un territorio nel dettaglio di quello che produce.
+Mi chiamo Luca Scainelli. Giornalista pubblicista, iscritto all'Ordine di Milano. Da trent'anni giro l'Italia a mangiare e a bere, e a capire chi sta dietro a ciò che finisce nel piatto.
 
-Giornalista iscritto all'Ordine dei Giornalisti.
+Errante del Gusto è l'archivio di quei giri: oltre seicento assaggi, ristoranti, prodotti, produttori, ognuno con un voto e un posto sulla mappa.
 
-Il lavoro si sviluppa su due piani:
+## Come si legge
 
-- **L'Assaggio Quotidiano nell'Archivio del Gusto**: ogni giorno un frammento rapido, un'istantanea di sapore. Un mosaico che si compone nel tempo.
-- **L'Approfondimento del Martedì sul Blog**: ogni settimana un articolo per andare al cuore del prodotto e del territorio. Qui il racconto si fa denso e l'esperienza diventa memoria.
+Ogni tappa ha un voto da 20 a 60. Non è un voto scolastico: pesa il piatto, l'accoglienza e la sincerità di ciò che ho trovato. Il resto sono i fatti, scritti come li ho visti.
 
-**Come valuto**
+L'appuntamento fisso è il **martedì**: un articolo per andare al cuore di un prodotto o di un luogo.
 
-Non lascio nulla al caso. Ogni esperienza passa attraverso una scala da 20 a 60 — non un voto scolastico, ma la sintesi di un'analisi che pesa l'emozione, l'accoglienza e la verità di ciò che ho incontrato.
+## Il resto del lavoro
 
----
+Dall'aglio ho fatto un'associazione, [Vampiri Italiani](https://vampiriitaliani.it/): è lì che oggi vive la parte più viva del mio lavoro.
 
-*Cerchi una consulenza indipendente — valutazione di prodotti, formazione, costruzione di assortimenti? I dettagli sono su [luca-scainelli.it](#).*
+Per le consulenze indipendenti — valutazione di prodotti, formazione, costruzione di assortimenti — scrivimi.
 
-[Ultimo assaggio](https://www.errantedelgusto.it/)
+[Ultimo assaggio](/)
