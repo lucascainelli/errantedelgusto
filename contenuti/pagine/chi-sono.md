@@ -7,7 +7,7 @@ slug: "chi-sono"
 
 ## Chi sono
 
-Mi chiamo Luca Scainelli. Giornalista pubblicista, iscritto all'Ordine di Milano. Da trent'anni giro l'Italia a mangiare e a bere, e a capire chi sta dietro a ciò che finisce nel piatto.
+Mi chiamo Luca Scainelli. Giornalista pubblicista, iscritto all'Ordine di Milano. Da 35 anni giro l'Italia a mangiare e a bere, e a capire chi sta dietro a ciò che finisce nel piatto.
 
 Errante del Gusto è l'archivio di quei giri: oltre seicento assaggi, ristoranti, prodotti, produttori, ognuno con un voto e un posto sulla mappa.
 
