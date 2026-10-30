@@ -515,6 +515,17 @@ function main() {
   lista(tag, 'tag', 'Tag');
 
   scrivi('archiviodelgusto/index.html', archivio(P, nomeCat));
+  // elenco "ultimi articoli" per la pagina /ordine/ (prima veniva dall'API di WordPress)
+  {
+    const fmt = (a) => ({ id: a.slug, title: { rendered: a.titolo }, link: u(a.url), date: a.data.toISOString(), excerpt: { rendered: a.sommario || a.estratto || '' } });
+    const inCat = (a, slugs) => a.categorie.some((c) => slugs.includes(c.slug));
+    scrivi('assets/ultimi.json', JSON.stringify({
+      assaggi: P.filter((a) => inCat(a, ['piccoli-morsi', 'tesori-della-terra'])).slice(0, 4).map(fmt),
+      articoli: P.filter((a) => inCat(a, ['dolcevita'])).slice(0, 3).map(fmt),
+    }));
+    fs.mkdirSync('ordine', { recursive: true });
+    fs.copyFileSync('contenuti/ordine/index.html', 'ordine/index.html');
+  }
   scrivi('mappa/index.html', mappa(nomeCat));
   scrivi('cerca/index.html', cerca(nomeCat));
 
