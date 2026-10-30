@@ -1,6 +1,6 @@
 ---
 titolo: "Cordon Bleu AIA, il ripieno al 16%"
-data: 2026-10-31T06:00:00
+data: 2026-11-04T06:00:00
 categorie: ["Tesori della Terra"]
 tag: ["aia", "cordon bleu", "industriale", "piatti pronti", "pollo panato", "tacchino"]
 rubrica: "Tesori della Terra"

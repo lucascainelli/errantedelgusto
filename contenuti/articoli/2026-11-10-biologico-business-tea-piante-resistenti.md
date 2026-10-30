@@ -1,6 +1,6 @@
 ---
 titolo: "Il biologico è un affare. Per chi certifica"
-data: 2026-11-13T06:00:00
+data: 2026-11-10T06:00:00
 categorie: ["Leggi Mangia Bevi"]
 tag: ["agricoltura", "annate", "biologico", "certificazione", "martedi", "miglioramento genetico", "piante resistenti", "sostenibilità", "tea", "vignaioli", "vino"]
 sommario: "Il biologico certificato è pagato da chi produce: un conflitto d'interessi strutturale. Molti vignaioli tradizionali sono più sostenibili di quelli con il bollino. È ora di accelerare verso le TEA"

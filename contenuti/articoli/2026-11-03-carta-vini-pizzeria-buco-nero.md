@@ -1,6 +1,6 @@
 ---
 titolo: "La carta vini in pizzeria è un buco nero"
-data: 2026-11-06T06:00:00
+data: 2026-11-03T06:00:00
 categorie: ["Dolcevita"]
 tag: ["abbinamento pizza vino", "bergamo", "carta vini", "editoriale", "lambrusco", "martedi", "pizzeria", "Val Seriana", "vino in pizzeria"]
 sommario: "Carta vini in pizzeria: un problema sistematico. Le pizzerie serie curano l'impasto e ignorano il vino. La proposta: solo lambrusco in carta"
