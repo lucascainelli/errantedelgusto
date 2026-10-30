@@ -7,6 +7,7 @@
 // Risultato: index.html, post/, category/, tag/, archiviodelgusto/, mappa/, cerca/, pagine, feed, sitemap
 
 import fs from 'node:fs';
+import crypto from 'node:crypto';
 import path from 'node:path';
 import matter from 'gray-matter';
 import { Marked } from 'marked';
@@ -26,7 +27,10 @@ const dataIT = (d) => `${d.getUTCDate()} ${MESI[d.getUTCMonth()]} ${d.getUTCFull
 const dataBreve = (d) => `${String(d.getUTCDate()).padStart(2, '0')} ${MESI[d.getUTCMonth()].slice(0, 3).toUpperCase()} ${d.getUTCFullYear()}`;
 const dataTrattini = (d) => `${String(d.getUTCDate()).padStart(2, '0')}-${String(d.getUTCMonth() + 1).padStart(2, '0')}-${d.getUTCFullYear()}`;
 const dataISO = (d) => d.toISOString().slice(0, 10);
-const scrivi = (file, testo) => { fs.mkdirSync(path.dirname(file), { recursive: true }); fs.writeFileSync(file, testo); };
+// versione dei file css/js: cambia solo se cambia il contenuto (evita cache vecchie nel browser)
+const verAsset = (p) => { try { return crypto.createHash('md5').update(fs.readFileSync(p)).digest('hex').slice(0, 8); } catch { return null; } };
+const conVersioni = (html) => html.replace(/((?:src|href)=")(\/[^"?]*?)?(\/assets\/[^"?]+\.(?:css|js))(")/g, (m, a, b, f, c) => { const v = verAsset(f.slice(1)); return v ? `${a}${b || ''}${f}?v=${v}${c}` : m; });
+const scrivi = (file, testo) => { fs.mkdirSync(path.dirname(file), { recursive: true }); fs.writeFileSync(file, file.endsWith('.html') ? conVersioni(testo) : testo); };
 const noTag = (h) => h.replace(/<[^>]+>/g, ' ').replace(/&[a-z#0-9]+;/gi, ' ').replace(/\s+/g, ' ').trim();
 const parole = (s, n) => { const w = s.split(/\s+/).filter(Boolean); return w.length > n ? w.slice(0, n).join(' ') + '…' : w.join(' '); };
 const u = (p) => (/^(https?:|mailto:|#)/.test(p) ? p : BASE + p); // percorso interno → con base
