@@ -1,0 +1,10 @@
+cronache-dell-aglio	https://vampiriitaliani.it/articoli/
+archivio-del-gusto	/archiviodelgusto/
+blog	/category/dolcevita/
+spiriti-alchimie	/category/spiriti-e-alchimie/
+alchimie-dolci-aromi	/category/alchimie-dolci-e-aromi/
+20-nota-dolente	/archiviodelgusto/
+30-equilibrio-sospeso	/archiviodelgusto/
+40-armonia-gusto	/archiviodelgusto/
+50-eccellenza-carattere	/archiviodelgusto/
+60-estasi-rarita	/archiviodelgusto/

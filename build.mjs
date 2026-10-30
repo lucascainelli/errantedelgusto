@@ -495,6 +495,13 @@ function main() {
   scrivi('index.html', home(P, nomeCat));
   for (const a of P) scrivi(path.join('post', a.slug, 'index.html'), a.voto || a.rubrica ? paginaAssaggio(a, nomeCat) : paginaStandard(a, nomeCat));
   for (const [slug, nuovo] of movedSlugs) scrivi(path.join('post', slug, 'index.html'), redirectStub(slug, nuovo));
+  // vecchie categorie WordPress che non esistono più → rimando alla pagina più vicina
+  if (fs.existsSync('contenuti/redirect-categorie.txt')) {
+    for (const r of fs.readFileSync('contenuti/redirect-categorie.txt', 'utf8').split('\n').filter(Boolean)) {
+      const [slug, a] = r.split('\t');
+      scrivi(path.join('category', slug, 'index.html'), redirectStub(slug, u(a)));
+    }
+  }
 
   const cat = new Map(), tag = new Map();
   for (const a of P) {
