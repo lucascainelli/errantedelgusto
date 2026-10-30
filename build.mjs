@@ -434,14 +434,21 @@ function archivio(P, nomeCat) {
 }
 
 function mappa(nomeCat) {
-  const L = JSON.parse(fs.readFileSync('contenuti/luoghi.json', 'utf8'));
+  // le coordinate stanno già nel link di Google Maps (@lat,lng)
+  const L = JSON.parse(fs.readFileSync('contenuti/luoghi.json', 'utf8')).map((l) => {
+    const m = (l.maps || '').match(/@(-?\d+\.\d+),(-?\d+\.\d+)/) || (l.maps || '').match(/!3d(-?\d+\.\d+)!4d(-?\d+\.\d+)/);
+    return { ...l, lat: m ? Number(m[1]) : null, lng: m ? Number(m[2]) : null };
+  });
+  scrivi('assets/luoghi.json', JSON.stringify(L));
   const corpo = `<main class="wrap-arch"><p class="eyebrow">Mappa Errante</p><h1 class="h1-lista">I luoghi dell'Errante</h1>
   <p class="conta">${L.length} indirizzi selezionati. Cerca per nome, città o tipo di cucina.</p>
   <input id="q" class="arch-q" type="search" placeholder="🔍 Cerca un luogo…" autocomplete="off">
+  <div id="mappa" class="mappa-box"></div>
   <div class="griglia-m" id="luoghi"></div></main>`;
   return pagina({
     titolo: `Mappa Errante — ${NOME}`, descrizione: 'Gli indirizzi selezionati da Errante del Gusto.', url: '/mappa/', corpo, nomeCat,
-    extraHead: `<script>window.EDG={base:${JSON.stringify(BASE)}}</script><script defer src="${u('/assets/mappa.js')}"></script>`,
+    extraHead: `<link rel="stylesheet" href="${u('/assets/leaflet/leaflet.css')}"><script src="${u('/assets/leaflet/leaflet.js')}"></script>
+<script>window.EDG={base:${JSON.stringify(BASE)}}</script><script defer src="${u('/assets/mappa.js')}"></script>`,
   });
 }
 

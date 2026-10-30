@@ -110,3 +110,7 @@ a{color:inherit}
 .luogo h3{margin:0 0 4px;font-size:1.05rem;font-weight:800}.luogo .l-m{font-size:.8rem;color:#718096;margin-bottom:8px}
 .luogo p{font-size:.88rem;color:#4a5568;margin:0 0 10px;line-height:1.5}.luogo a{font-size:.82rem;font-weight:700;color:#1d9e75;text-decoration:none;margin-right:14px}
 .luogo .v{display:inline-block;background:#111;color:#fff;border-radius:6px;padding:2px 8px;font-size:.78rem;font-weight:800;margin-right:8px}
+/* mappa */
+.mappa-box{height:520px;border-radius:14px;margin:6px 0 24px;border:1px solid #e2e8f0;position:relative;z-index:0;isolation:isolate}
+.pop-l a{margin-right:10px;font-weight:700;color:#1d9e75;text-decoration:none;font-size:.85rem}
+.luogo{cursor:pointer}

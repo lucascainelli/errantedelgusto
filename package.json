@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "gray-matter": "^4.0.3",
+    "leaflet": "^1.9.4",
     "marked": "^18.1.2"
   },
   "devDependencies": {
