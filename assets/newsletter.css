@@ -1,0 +1,6 @@
+/* Modulo newsletter della home (tema scuro/oro) */
+.nl-home{text-align:left}
+.nl-home label{display:block;font-weight:700;font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:#c5a059;margin-bottom:8px}
+.nl-home input.input{background:#1a0a0a;border:2px solid rgba(197,160,89,.45);border-radius:9999px;color:#fff;font-size:16px;padding:14px 22px;width:100%;box-sizing:border-box;font-family:inherit}
+.nl-home input.input:focus{outline:none;border-color:#c5a059}.nl-home input.input::placeholder{color:rgba(255,255,255,.3)}
+.nl-home button{margin-top:20px;font-family:inherit;font-size:14px;font-weight:800;font-style:italic;letter-spacing:.05em;color:#0d0303;background:#c5a059;border:0;border-radius:9999px;padding:14px 36px;cursor:pointer}

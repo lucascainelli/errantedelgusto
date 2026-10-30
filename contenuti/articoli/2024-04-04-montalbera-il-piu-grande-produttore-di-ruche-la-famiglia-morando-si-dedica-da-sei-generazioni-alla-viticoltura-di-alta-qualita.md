@@ -1,0 +1,40 @@
+---
+titolo: "Montalbera, il più grande produttore di Ruchè. La famiglia Morando si dedica da sei generazioni alla viticoltura di alta qualità"
+data: 2024-04-04T05:03:00
+categorie: ["Nel Bicchiere"]
+tag: ["famiglia morando", "franco morando", "grignolino", "laccento", "luxury wine tourism", "monferrato unesco", "montalbera", "ruchè di castagnole monferrato", "vitigni autoctoni"]
+sommario: "Dal 1983 la famiglia Morando coltiva 66 ettari di Ruchè nel cuore del Monferrato Patrimonio Unesco. Vini autoctoni, luxury wine tourism e sei generazioni di viticoltura d'eccellenza."
+copertina: "/img/2024/04/image-5.webp"
+slug: "montalbera-il-piu-grande-produttore-di-ruche-la-famiglia-morando-si-dedica-da-sei-generazioni-alla-viticoltura-di-alta-qualita"
+edg_url: "https://www.errantedelgusto.it/post/montalbera-il-piu-grande-produttore-di-ruche-la-famiglia-morando-si-dedica-da-sei-generazioni-alla-viticoltura-di-alta-qualita/"
+---
+
+## Da sei generazioni la famiglia Morando si dedica
+
+## alla viticoltura di alta qualità. morando ruchè
+
+![](/img/2024/04/image-5.webp)
+
+Morando Rochè
+
+Circondata da vigneti di proprietà disposti in forma circolare nel Monferrato e con una produzione nelle Langhe, la cantina Montalbera è il più grande produttore di Ruchè dal 1983, oltre alle altre varietà autoctone della regione. Esperienza e amore per il territorio sono alla base della visione della Famiglia Morando che, negli ultimi anni, ha avviato il progetto di luxury wine tourism con la realizzazione di suites e la programmazione di esperienze in cantina, in vigna e a contatto con il territorio.
+
+Castagnole Monferrato (AT), 29 marzo 2024 – Nel cuore del Monferrato, circondata da un anfiteatro di viti e noccioleti, con vista sulle montagne, si erge l’azienda agricola Montalbera. Una cantina moderna e all'avanguardia circondata da 115 ettari di alcune tra le più rinomate uve autoctone della regione, in particolare il pregiato Ruchè. Qui, in un'area ricca di biodiversità e suoli fertili, la tradizione agricola incontra l'acume imprenditoriale in un'azienda fondata da Enrico Riccardo Morando, padre dell'industria italiana del cibo per animali domestici e uno degli imprenditori italiani più venerati. Nel 1983 acquistò la tenuta dopo aver riconosciuto il potenziale in crescita nel Monferrato, in particolare nel Ruchè, anticipando il risveglio economico dell'intero territorio.
+
+Guidato dalla visione di Enrico e dal principio di creazione di valore a lungo termine, è oggi suo nipote Franco Morando, Direttore Generale e CEO di Montalbera, a supervisionare le operazioni della cantina assieme all’enologo Nino Falcone, onorando il lascito del nonno fondatore con vini espressivi che regolarmente ottengono alti riconoscimenti dalla critica. Tuttavia, la ragione d'essere di Montalbera, oltre che al patrimonio viticolo Ruchè, status di DOCG dal 2010, ruota attorno ad altre varietà autoctone, come Barbera o Grignolino. L’azienda si distingue per i suoi vini rossi, espressione massima del territorio e al contempo per uve non autoctone, come il Viognier e lo Chardonnay, esplorate nei loro bianchi. Sono presenti anche varietà a bacca bianca autoctone, come il Moscato D’Asti, coltivato in un vigneto di 15 ettari a Castiglione Tinella, nella zona delle Langhe e il Timorasso. Un’uva recuperata negli ultimi anni che si è dimostrata resistente alle malattie e agli eventi atmosferici, prestandosi anche all’invecchiamento.
+
+**LA VISIONE CHE GUIDA LA FILOSOFIA DI VINIFICAZIONE SOSTENIBILE**
+
+La lungimiranza imprenditoriale della famiglia Morando si riflette nella storia di successo dell'uva Ruchè, una varietà autoctona originariamente utilizzata per produrre vini da tavola per le feste, salvata dall'estinzione dal parroco Don Giacomo Cauda. Enrico Riccardo Morando è stato tra i primi a credere nel potenziale del Ruchè per produrre vini di alta qualità, distinti dalle loro note succose e floreali. Nel 2015 il loro Ruchè “La Tradizione” è stato il primo Ruchè di Castagnole Monferrato DOCG a ottenere i Tre Bicchieri del Gambero Rosso. Oggi, il 60% di tutto il Ruchè nel mondo può essere ricondotto alle cantine di Montalbera che coprono un totale di 66 ettari nella tenuta di Castagnole Monferrato. Sforzi conservazionistici simili si possono vedere nell'approccio di Montalbera al Grignolino, un'uva rara, esoterica e ricca di tannini, il 15% dei quali è di proprietà e prodotto dalla famiglia Morando. Uno spirito imprenditoriale si estende anche alla filosofia produttiva di Montalbera, che enfatizza l'innovazione continua in cantina e pratiche sostenibili in vigneto, compresi un basso intervento chimico e la raccolta a mano.
+
+Tecniche di produzione sperimentali rigorosamente pianificate ma eseguite in modo giocoso, come l'invecchiamento prolungato in botti di rovere francese applicato al Barbera D'Asti DOCG, vengono utilizzate per ottenere la migliore espressione di varietà e terroir. Altre pratiche includono la sovra maturazione, l'appassimento sulla vite, l'invecchiamento in anfora e l'invecchiamento prolungato sui lieviti.
+
+**I VINI DI MONTALBERA**
+
+La selezione di vini di alta qualità di Montalbera si esprime attraverso diverse famiglie. Al vertice spicca la "Famiglia del Ruchè", guidata dal fiore all'occhiello "LACCENTO", Ruchè di Castagnole Monferrato DOCG, e dal prestigioso "Il Fondatore", Ruchè di Castagnole Monferrato DOCG Riserva, presentato nel 2024 e precedentemente conosciuto come "Limpronta", omaggio al fondatore Enrico Riccardo Morando. Accanto al rinomato Ruchè, Montalbera celebra la “Famiglia della Barbera” con "LEQUILIBRIO", Barbera D'Asti DOCG, e "La mia Nuda", Nizza DOCG. Segue il Grignolino, in cui "Grignè", un Grignolino D’Asti DOC, e "LANFORA", Grignolino D’Asti in purezza affinato in anfore di terracotta, rappresentano la quintessenza di questa rara varietà piemontese. Tra le bollicine, imperdibile è il "120+1", spumante metodo classico Pas Dosè 100% Pinot Nero, che, con 10 anni sui lieviti, testimonia la maestria e l'innovazione della cantina. Altrettanto rilevante è la famiglia "Calypsos", con il Viognier Piemonte DOC e il Timorasso Colli Tortonesi DOC – Derthona, che incarnano il confronto tra vitigni internazionali e autoctoni, esprimendo al meglio le caratteristiche distintive del territorio piemontese in pregiati vini bianchi. Infine, la "Famiglia del Nebbiolo", vera e propria ambasciatrice della regione, è rappresentata da "IL DON" Monferrato DOC Nebbiolo Superiore, da “LEVOLUZIONE” – Barolo del Comune di Serralunga d’Alba e da “LINTUITO” Barbaresco DOCG della zona di Neive.
+
+**LUXURY WINE TOURISM**
+
+Verso il futuro, lo sguardo della famiglia e di Franco Morando è rivolto al luxury wine tourism e alle esperienze legate al territorio del Monferrato Patrimonio Unesco con l'obiettivo di creare un rifugio privato ed esclusivo. Guidati dalle parole d'ordine di Franco Morando "SPAZIO, LUCI E ORDINE" nasce il progetto Montalbera Incoming volto a far vivere all’ospite un'esperienza di lusso nel mondo del vino. Arredate in uno stile minimalista e moderno caratterizzato da grigi, velluti e vasche da bagno indipendenti, Montalbera offre attualmente quattro nuove Luxury Wine Suites con vista sull'anfiteatro di viti, noccioleti e il lago della tenuta. Un rifugio confortevole per coloro che desiderano immergersi nella storia delle rare varietà autoctone del Monferrato e nella filosofia vinicola centenaria, ma anche per gli ospiti che vogliono godere dell'esperienza Montalbera in loco.
+
+Le attività della tenuta includono vari percorsi che si estendono attraverso i paesaggi incontaminati di Montalbera, che gli ospiti possono esplorare a piedi, in bicicletta o a cavallo. Dopo una giornata attiva nella campagna piemontese, jacuzzi all'aperto, trattamenti spa in camera e sessioni di yoga nella fresca e rilassante cantina permettono agli ospiti di rilassarsi, mentre i tour in Vespa delle colline del Monferrato completano l'esperienza della Dolce Vita. Un'opportunità per conoscere Montalbera oltre al suo vino, come azienda agricola con oltre 35 ettari di noccioleti, producendo birre artigianali, grappa e liquori dai frutti della sua terra.

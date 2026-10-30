@@ -1,0 +1,18 @@
+---
+titolo: "VIGNAIOLI DI MONTAGNA VINI E CINEMA DELLE TERRE ALTE"
+data: 2022-03-17T18:44:00
+categorie: []
+copertina: "/img/2026/02/image-190.webp"
+slug: "vignaioli-di-montagna-vini-e-cinema-delle-terre-alte"
+edg_url: "https://www.errantedelgusto.it/post/vignaioli-di-montagna-vini-e-cinema-delle-terre-alte/"
+---
+
+Appassionata partecipazione per Vignaioli di Montagna: la settimana di appuntamenti, nel cuore di Milano, che ha messo al centro i vini artigianali di piccoli produttori del Trentino e dell’Alto Adige, il cinema del Trento Film Festival e il racconto profondo del rapporto tra uomo e natura
+
+![](/img/2026/02/image-190.webp)
+
+Si è appena conclusa una settimana di appuntamenti nel cuore di Milano, che ha visto protagonisti i Vignaioli Indipendenti del Trentino e dell’Alto Adige: incontri nelle librerie, dialoghi tra panificatori e vignaioli, degustazioni nelle enoteche, verticali di formaggi e soprattutto una giornata di Mostra con la presenza di 50 Vignaioli e oltre 250 vini in degustazione, oltre a tre Masterclass dedicate alla viti - enologia delle Terre Alte. L’appuntamento milanese di Vignaioli di Montagna si è chiuso con una grande partecipazione di pubblico e l'entusiasmo di un percorso nato per omaggiare il rapporto profondissimo tra l’uomo e i suoi territori.
+
+Grande partecipazione, ma soprattutto grande interesse per i temi che gli eventi dedicati al vino e al racconto della montagna hanno raccolto da parte di esperti, appassionati, mondo Horeca e curiosi. Ancora una volta Vignaioli di Montagna, dopo l’edizione bolognese del 2020 e le precedenti svoltesi a Trento - lì dove la manifestazione è nata - si caratterizza per la sua capacità di rivolgersi al rapporto tra uomo e montagna con sguardi diversi: quello del cinema, e in particolare del Trento Film Festival, partner dell’iniziativa; quello dei produttori, primi custodi di un territorio del quale hanno scelto di prendersi cura; ma anche quello di un panificatore come Davide Longoni, di un illustratore come Guido Scarabottolo, di una realtà culturale come il Cinemino, e di tanti e tante altre. Si scoprono così affinità tra mondi e pratiche che sembrano lontane, ma che in realtà si avvicinano. Quello che ha preso vita a Milano è stato e continua a essere un racconto a più voci che mette al centro la terra e il lavoro di chi la coltiva nel solco della sostenibilità (della resistenza e della resilienza) che portano ovviamente alla qualità; una dedica appassionata ai vini artigianali di piccoli produttori di montagna indipendenti e alla ricerca di un equilibrio nella relazione profonda tra uomo e natura, dove spesso la tecnica rimane nascosta e ne emerge la personalità, perché un buon vino è il frutto della mano di chi lo trasforma, ma nello stesso tempo del territorio nel quale l’uva cresce; senza uno o l’altro i vini dei Vignaioli non esisterebbero. Si dicono soddisfatti Hannes Baumgartner, Presidente dei Freie Weinbauern Südtirol, e Clementina Balter, Presidente del Consorzio Vignaioli del Trentino, per i quali “Vignaioli di Montagna rappresenta, dopo due anni difficili, il ritorno all’incontro con gli appassionati, il pubblico, i consumatori e i ristoratori, per far conoscere i nostri vini. Seppur con tutte le attenzioni dovute, è stato entusiasmante tornare ad incontrare le persone per raccontare loro le storie che ci sono dentro e dietro ai nostri vini. Abbiamo fortemente voluto organizzare questo evento che è per noi l’occasione per rinsaldare il legame che unisce Trentino e Alto Adige e che appartiene a chi decide di produrre in montagna, nel pieno rispetto del proprio territorio”.
+
+<http://www.vignaiolidimontagna.it/>

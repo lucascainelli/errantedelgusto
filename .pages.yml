@@ -1,0 +1,33 @@
+# Editor nel browser (Pages CMS, pagescms.org): si accede con l'account GitHub.
+media:
+  input: img
+  output: /img
+content:
+  - name: articoli
+    label: Articoli
+    type: collection
+    path: contenuti/articoli
+    filename: "{year}-{month}-{day}-{primary}.md"
+    view:
+      fields: [titolo, data, rubrica, voto]
+      primary: titolo
+      sort: [data]
+      default:
+        sort: data
+        order: desc
+    fields:
+      - { name: titolo, label: Titolo, type: string, required: true }
+      - { name: data, label: Data (futura = programmato), type: date, required: true }
+      - { name: rubrica, label: Rubrica (solo per gli assaggi), type: select, options: { values: ["Pizza in Pagella", "Vino del Giovedì", "Retrogusto", "Nettare di Vite", "Essenza di Grano", "Piccoli Morsi", "Tesori della Terra", "Spiriti e Alchimie", "Alchimie Dolci e Aromi", "Sete"] } }
+      - { name: voto, label: Voto (solo per gli assaggi), type: select, options: { values: [20, 30, 40, 50, 60] } }
+      - { name: produttore, label: Produttore, type: string }
+      - { name: negozio, label: Negozio / locale, type: string }
+      - { name: data_assaggio, label: Data dell'assaggio, type: date }
+      - { name: maps, label: Link Google Maps, type: string }
+      - { name: categorie, label: Categorie, type: string, list: true }
+      - { name: tag, label: Tag, type: string, list: true }
+      - { name: sommario, label: Sommario (due righe, per Google), type: text }
+      - { name: copertina, label: Foto di copertina, type: image }
+      - { name: alt_copertina, label: Descrizione della foto, type: string }
+      - { name: bozza, label: Bozza (non pubblicare), type: boolean }
+      - { name: body, label: Testo, type: rich-text }

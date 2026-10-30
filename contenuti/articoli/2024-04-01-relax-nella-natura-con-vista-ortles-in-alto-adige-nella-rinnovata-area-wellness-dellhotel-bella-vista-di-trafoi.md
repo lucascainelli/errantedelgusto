@@ -1,0 +1,22 @@
+---
+titolo: "Relax nella natura con vista Ortles, in Alto Adige, nella rinnovata area wellness dell’hotel Bella Vista di Trafoi"
+data: 2024-04-01T08:29:00
+categorie: ["Dolcevita"]
+tag: ["family hotel lusso", "gustav thoeni", "hotel bella vista trafoi", "infinity pool", "ortles", "ospitalità altoatesina", "parco nazionale dello stelvio", "trafoi", "wellness alto adige"]
+slug: "relax-nella-natura-con-vista-ortles-in-alto-adige-nella-rinnovata-area-wellness-dellhotel-bella-vista-di-trafoi"
+edg_url: "https://www.errantedelgusto.it/post/relax-nella-natura-con-vista-ortles-in-alto-adige-nella-rinnovata-area-wellness-dellhotel-bella-vista-di-trafoi/"
+---
+
+Relax con vista sulla maestosa vetta dell’Ortles nell’ampliata area wellness dell’hotel Bella Vista di Trafoi
+
+Nel cuore del Parco nazionale dello Stelvio, l’hotel Bella Vista accoglie gli amanti della montagna per una vacanza all’insegna del benessere e dell’avventura. Con l’ampliamento dell’area wellness, già dotata di piscina infinity e sauna con vista mozzafiato sull’Ortles, Bella Vista si conferma vera e propria oasi di tranquillità e relax incastonata nella natura.
+
+Trafoi (BZ), 26 marzo 2024 – Adagiato sul terzo dei 48 tornanti che dall’Alta Val Venosta salgono verso il passo dello Stelvio, l’Hotel Bella Vista unisce il fascino naturale delle Dolomiti dell’Engadina al calore dell’ospitalità tipica dell’Alto Adige, promettendo momenti indimenticabili per tutta la famiglia. Il family hotel 4\* della famiglia Thoeni, fiore all’occhiello degli Stelvio Hotels, è un tranquillo rifugio di lusso naturale per gli amanti della montagna e del relax che, da gennaio 2024, possono godere anche di un’area wellness ampliata grazie al recupero degli spazi del piano seminterrato e delle antiche mura della costruzione originale, risalente al 1875.
+
+L’hotel Bella Vista amplia l’area dedicata al benessere con uno spazio interno nel quale trovano posto il nuovo bagno turco dall’atmosfera accogliente con luci soffuse e materiali naturali, una confortevole sala relax (che due volte a settimana si trasforma in palestra per i corsi di yoga mattutini) con ampie vetrate che aprono una vista sugli impressionanti paesaggi del Parco nazionale dello Stelvio, e, infine, una sala per massaggi e trattamenti. Pur facendo parte della struttura originale dell’albergo, la zona benessere interna gode di un collegamento diretto con l’area wellness esterna con la sauna finlandese panoramica, il laghetto naturale di risorgiva con acqua purissima e la piscina infinity riscaldata con solarium. Il tutto impreziosito dal panorama mozzafiato che circonda la struttura, tra prati, boschi, sentieri e le cime innevate delle vette più elevate di tutto l’Alto Adige, per un’esperienza di benessere a diretto contatto con la natura.
+
+Non solo wellness. L’ospitalità della famiglia Thoeni accoglie le esigenze di tutti: dalle famiglie che possono contare sul servizio di assistenza qualificata dedicata ai più piccoli nel Club degli Orsetti con giochi e attività nel grande parco di 10.000 metri quadrati, agli appassionati delle attività outdoor che da qui possono intraprendere escursioni tra boschi alpini e vette per esplorare il Parco nazionale dello Stelvio. Per gli amanti dello sci, inoltre, merita una visita la galleria dedicata alla carriera di Gustav Thoeni, mitico campione della “Valanga Azzurra”, tra foto, cimeli, medaglie e le 4 coppe del mondo vinte negli anni ’70.
+
+Dopo una giornata trascorsa all’aria aperta, le camere e le suite dell’hotel Bella Vista, arredate con gusto e attenzione ai dettagli, offrono tutti i comfort e la garanzia di un sonno di qualità grazie al potere rilassante del caratteristico profumo di cirmolo del legno utilizzato per gli arredi. Da un lato la vista è sulla vetta dell’Ortles, in direzione Stelvio, dall’altro consente invece di ammirare le Alpi Venoste, sulle quali svetta la cima della Palla Bianca. A cena, la giovane brigata guidata dallo chef Andreas Wunderer porta in tavola deliziosi menu con ricette che spaziano dalla cucina locale a quella internazionale, applicando tutti i segreti appresi nei 15 anni di esperienza internazionale a fianco di chef stellati del calibro di Mario Gamba e Shaun Rankin.
+
+Tra relax, natura e gusto, l’hotel Bella Vista è la destinazione ideale per staccare dalla frenesia quotidiana della vita in città e abbandonarsi al dolce benessere nel contesto naturale dalla bellezza senza tempo delle Dolomiti dell’Engadina.
