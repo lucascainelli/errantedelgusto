@@ -1,6 +1,6 @@
 ---
 titolo: "Premiati tutti, vince nessuno"
-data: 2026-11-24T06:00:00
+data: 2026-11-24T05:00:00
 categorie: ["Dolcevita"]
 tag: ["editoriale", "fiere", "martedi", "premi"]
 sommario: "Fiere che passano il giorno a distribuire premi. Quasi tutti premiati, in sala solo premiati e parenti. Un premio dato a tutti non seleziona più nulla."

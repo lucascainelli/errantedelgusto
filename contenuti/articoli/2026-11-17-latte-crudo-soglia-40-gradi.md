@@ -1,6 +1,6 @@
 ---
 titolo: "Latte crudo: la soglia sono 40 gradi"
-data: 2026-11-17T06:30:00
+data: 2026-11-17T05:00:00
 categorie: ["Leggi Mangia Bevi"]
 tag: ["formaggio", "latte crudo", "caseificio", "etichette", "termizzazione", "martedi"]
 sommario: "Il latte è crudo finché non supera i 40 °C. Un paio di gradi in più e il formaggio cambia natura, anche se l'etichetta non lo dice"
