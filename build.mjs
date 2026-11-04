@@ -136,7 +136,7 @@ function header(nomeCat) {
 }
 const FOOTER = () => `<footer class="ft"><div class="ft-in">
   <div>© ${new Date().getFullYear()} Errante del Gusto &nbsp;·&nbsp; <span style="font-style:italic">Barbaric, London</span></div>
-  <div class="ft-links"><a href="${u('/chi-sono/')}">Chi Sono</a><a href="${u('/leggi-un-numero-della-newsletter/')}">La newsletter</a><a href="${u('/privacy-policy/')}">Privacy</a><a href="https://vampiriitaliani.it" target="_blank" rel="noopener">Vampiri Italiani</a></div>
+  <div class="ft-links"><a href="${u('/chi-sono/')}">Chi Sono</a><a href="${u('/leggi-un-numero-della-newsletter/')}">La newsletter</a><a href="${u('/privacy-policy/')}">Privacy</a><a href="https://vampiriitaliani.it" target="_blank" rel="noopener">Vampiri Italiani</a><a href="https://aglioteca.it" target="_blank" rel="noopener">Aglioteca, il negozio dell'aglio</a></div>
 </div></footer>`;
 
 function pagina({ titolo, descrizione = '', url, corpo, og = '', tipo = 'website', extraHead = '', nomeCat, bodyClass = '', noindex = false }) {
