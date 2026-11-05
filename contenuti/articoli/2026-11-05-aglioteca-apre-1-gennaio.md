@@ -1,10 +1,10 @@
 ---
-titolo: "Aglioteca apre il 1 gennaio"
+titolo: "Aglioteca apre il 1 gennaio 2027"
 data: 2026-11-05T06:00:00
 categorie: ["Cronache dell'Aglio"]
 tag: ["aglio", "aglioteca", "aglio nero", "negozio online", "vampiri italiani"]
 sommario: "Il 1 gennaio 2027 apre Aglioteca, il negozio online dell'aglio italiano scelto per provenienza. Lasciate la mail e sarete avvisati per primi"
-copertina: "/img/2026/11/aglioteca-logo-copertina.webp"
+copertina: "/img/2026/11/aglioteca-logo-quadrato.webp"
 alt_copertina: "Logo di Aglioteca: AGLIO in bianco, TECA in rosso, su sfondo scuro"
 slug: "aglioteca-apre-1-gennaio"
 ---
