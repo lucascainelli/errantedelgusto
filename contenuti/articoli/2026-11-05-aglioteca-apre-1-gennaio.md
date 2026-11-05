@@ -20,7 +20,7 @@ Apre il **1 gennaio 2027**.
 - **Agli per provenienza.** Una varietà alla volta, con la sua scheda.
 - **Un aglio per volta.** L'abbonamento bimestrale: ogni due mesi un aglio diverso a casa vostra.
 - **Cofanetti.** Per regalare, o per confrontare.
-- **Aglio nero.** Quello fermentato, dolce e scuro.
+- **Aglio nero.** Quello maturato, dolce e scuro.
 
 ## Come lavoro
 
