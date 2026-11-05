@@ -295,7 +295,9 @@ function home(P, nomeCat) {
   const ultimo = P.find((a) => a.voto && !a.tag.some((t) => t.slug === 'martedi'));
   const martedi = P.find((a) => a.tag.some((t) => t.slug === 'martedi'));
   const colonna = (slug) => P.find((a) => ha(a, slug));
-  const cron = P.filter((a) => ['errante-a-new-york', 'dolcevita', 'leggi-mangia-bevi', 'a-tavola', 'nel-bicchiere', 'nel-piatto', 'cronache-dell-aglio'].some((c) => ha(a, c))).slice(0, 4);
+  let nAglio = 0; // max 2 card sull'aglio, il resto lo prendono le altre cronache
+  const cron = P.filter((a) => ['errante-a-new-york', 'dolcevita', 'leggi-mangia-bevi', 'a-tavola', 'nel-bicchiere', 'nel-piatto', 'cronache-dell-aglio'].some((c) => ha(a, c)))
+    .filter((a) => !ha(a, 'cronache-dell-aglio') || ++nAglio <= 2).slice(0, 4);
   const ny = P.filter((a) => a.tag.some((t) => t.slug === 'new-york')).slice(0, 6);
 
   const hero = ultimo ? (() => {
