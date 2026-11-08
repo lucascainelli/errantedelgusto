@@ -344,7 +344,7 @@ function home(P, nomeCat) {
     <div class="bg-white rounded-[3rem] overflow-hidden shadow-xl flex flex-col md:flex-row border border-amber-100">
       <div class="md:w-1/2 min-h-[400px]">${imgTag(martedi.copertina, martedi.altCopertina, 'w-full h-full object-cover')}</div>
       <div class="md:w-1/2 p-12 flex flex-col justify-center">
-        <span class="text-amber-600 font-bold uppercase tracking-[0.3em] text-[10px] mb-4">L'appuntamento fisso</span>
+        <span class="text-amber-600 font-bold uppercase tracking-[0.3em] text-[10px] mb-4">L'appuntamento fisso · ${dataTrattini(martedi.data)}</span>
         <h2 class="text-4xl font-black text-gray-900 mb-6 italic uppercase tracking-tighter leading-none">Il Martedì</h2>
         <h3 class="text-2xl font-serif text-gray-700 mb-6 italic">${esc(martedi.titolo)}</h3>
         <p class="text-gray-500 italic mb-8 font-serif leading-relaxed">${esc(parole(martedi.estratto, 35))}</p>
