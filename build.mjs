@@ -81,6 +81,13 @@ if (fs.existsSync('contenuti/redirect-vampiri.txt')) {
   }
 }
 
+// Pubblicazione: sempre alle 06:00 ora italiana del giorno scritto nell'articolo (l'ora eventuale nel file si ignora).
+function uscitaAlle6(d) {
+  const t = Date.UTC(d.getUTCFullYear(), d.getUTCMonth(), d.getUTCDate(), 6);
+  const p = Object.fromEntries(new Intl.DateTimeFormat('en-US', { timeZone: 'Europe/Rome', hourCycle: 'h23', year: 'numeric', month: 'numeric', day: 'numeric', hour: 'numeric', minute: 'numeric' }).formatToParts(new Date(t)).map((x) => [x.type, +x.value]));
+  return new Date(t - (Date.UTC(p.year, p.month - 1, p.day, p.hour, p.minute) - t));
+}
+
 function leggiArticoli() {
   const dir = 'contenuti/articoli';
   const out = [];
@@ -89,7 +96,7 @@ function leggiArticoli() {
     if (data.bozza) continue;
     if (!data.titolo || !data.data) { console.warn(`! ${f}: mancano titolo o data`); continue; }
     const d = new Date(data.data);
-    if (!conProgrammati && d > new Date()) { console.log(`· ${f}: programmato, non ancora pubblicato`); continue; }
+    if (!conProgrammati && uscitaAlle6(d) > new Date()) { console.log(`· ${f}: programmato, non ancora pubblicato`); continue; }
     const slug = data.slug ? String(data.slug) : slugify(f.replace(/^\d{4}-\d{2}-\d{2}-?/, '').replace(/\.md$/, ''));
     const html = rendi(content);
     const categorie = lista(data.categorie).map((nome) => ({ nome, slug: slugify(nome) }));
