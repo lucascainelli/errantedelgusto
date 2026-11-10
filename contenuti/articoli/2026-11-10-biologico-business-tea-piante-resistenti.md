@@ -4,7 +4,7 @@ data: 2026-11-10T05:00:00
 categorie: ["Leggi Mangia Bevi"]
 tag: ["agricoltura", "annate", "biologico", "certificazione", "martedi", "miglioramento genetico", "piante resistenti", "sostenibilità", "tea", "vignaioli", "vino"]
 sommario: "Il biologico certificato è pagato da chi produce: un conflitto d'interessi strutturale. Molti vignaioli tradizionali sono più sostenibili di quelli con il bollino. È ora di accelerare verso le TEA"
-copertina: "/img/2026/05/vigneto-autunnale-biologico-tea-1.webp"
+copertina: "/img/2026/05/vigneto-autunnale-biologico-tea-quadrata.webp"
 slug: "biologico-business-tea-piante-resistenti"
 edg_url: "https://www.errantedelgusto.it/?p=3305"
 ---
