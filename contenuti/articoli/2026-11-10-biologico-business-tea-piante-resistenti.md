@@ -17,7 +17,7 @@ Nel frattempo, molti vignaioli cosiddetti "tradizionali" lavorano con un rispett
 
 È proprio questo il punto che mi interessa di più quando parlo con i vignaioli. Ho una domanda che faccio da anni, e che considero un piccolo test di onestà: *in un'annata piovosa, cosa fate? Rinunciate al raccolto o trattate oltre i limiti del biologico?* Quelli sinceri mi rispondono che trattano. Gli altri cambiano argomento.
 
-La variabilità dell'annata è la vera verità del vino. La materia prima decide il risultato finale, non l'alchimia in cantina. Un'annata sfavorevole resta sfavorevole, certificata o no. E questa realtà climatica, sempre più estrema e imprevedibile, pone una domanda concreta che non si può continuare a eludere con lo slogan del biologico: come si tutela davvero un vigneto nel 2025?
+La variabilità dell'annata è la vera verità del vino. La materia prima decide il risultato finale, non l'alchimia in cantina. Un'annata sfavorevole resta sfavorevole, certificata o no. E questa realtà climatica, sempre più estrema e imprevedibile, pone una domanda concreta che non si può continuare a eludere con lo slogan del biologico: come si tutela davvero un vigneto nel 2026?
 
 La risposta, per chi vuole guardare in avanti senza nostalgia di ritorno, ha un nome: TEA. Tecniche di Evoluzione Assistita — le cosiddette piante resistenti ottenute attraverso il miglioramento genetico di precisione. Varietà che riducono strutturalmente la necessità di trattamenti, che reggono meglio le stagioni difficili, che permettono di lavorare con meno chimica — anche meno di quella consentita nel biologico. Non è fantascienza, è agronomia. Ed è, paradossalmente, molto più vicina all'idea romantica di vigna naturale di quanto non lo sia un disciplinare scritto da un ufficio.
 
