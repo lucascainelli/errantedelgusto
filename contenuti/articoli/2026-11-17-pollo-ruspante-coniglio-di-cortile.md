@@ -4,6 +4,8 @@ data: 2026-11-17T06:00:00
 categorie: ["Leggi Mangia Bevi"]
 tag: ["allevamento rurale", "coniglio", "cucina lenta", "etichetta carne", "martedi", "pollo ruspante"]
 sommario: "Il pollo ruspante non ti aspetta: va prenotato. Età di macellazione, etichette, coniglio di cortile e cottura lenta"
+copertina: "/img/2026/11/pollo-ruspante-coniglio-di-cortile.webp"
+alt_copertina: "Coniglio di cortile scuro in un recinto con fieno, un pollo ruspante sullo sfondo"
 slug: "pollo-ruspante-coniglio-di-cortile"
 ---
 
@@ -28,3 +30,5 @@ Chi ha fretta compri la vaschetta. Il resto è pazienza, e la pazienza qui si se
 **5. Il prezzo.** Costa di più. Giusto: paghi i giorni. Ottanta giorni di mangime e di spazio non stanno in quattro euro al chilo. Si mangia meno spesso, ma si mangia.
 
 **Verdetto.** Il ruspante non è una moda, è un calendario. Si mangia quando l'allevatore te lo dice, dopo che la gallina ha fatto il suo tempo di uova. Se aspetti, mangi meglio.
+
+*Immagine generata con intelligenza artificiale.*
