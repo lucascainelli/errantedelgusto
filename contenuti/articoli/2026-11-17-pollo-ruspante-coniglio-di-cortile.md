@@ -1,6 +1,6 @@
 ---
 titolo: "Apologia del pollo ruspante"
-data: 2026-11-17T05:00:00
+data: 2026-11-17T06:00:00
 categorie: ["Leggi Mangia Bevi"]
 tag: ["allevamento rurale", "coniglio", "cucina lenta", "etichetta carne", "martedi", "pollo ruspante"]
 sommario: "Il pollo ruspante non ti aspetta: va prenotato. Età di macellazione, etichette, coniglio di cortile e cottura lenta"
