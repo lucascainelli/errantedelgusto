@@ -1,11 +1,10 @@
 ---
 titolo: "Il pesce che non c'è"
-data: 2026-11-17T16:00:00
+data: 2026-12-08T05:00:00
 categorie: ["Dolcevita"]
 tag: ["editoriale", "guida michelin", "michelin 2027", "trota salmonata", "autenticità", "territorio", "martedi"]
 sommario: "La trota salmonata è un colore d'allevamento, non una specie. Come l'autenticità di certi stellati Michelin: dichiarata, non praticata."
 slug: "trota-salmonata-il-pesce-che-non-ce"
-bozza: true
 ---
 
 La trota salmonata non è una specie. Non è nemmeno un ibrido di trota e salmone. È una trota iridea d'allevamento a cui il mangime, ricco di carotenoidi, tinge di rosa la carne. In natura quel pesce non esiste.
