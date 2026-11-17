@@ -1,6 +1,6 @@
 ---
 titolo: "Il pesce che non c'è"
-data: 2026-12-08T05:00:00
+data: 2026-11-24T05:00:00
 categorie: ["Dolcevita"]
 tag: ["editoriale", "guida michelin", "michelin 2027", "trota salmonata", "autenticità", "territorio", "martedi"]
 sommario: "La trota salmonata è un colore d'allevamento, non una specie. Come l'autenticità di certi stellati Michelin: dichiarata, non praticata."
