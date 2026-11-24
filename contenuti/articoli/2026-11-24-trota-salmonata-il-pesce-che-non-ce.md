@@ -4,6 +4,8 @@ data: 2026-11-24T05:00:00
 categorie: ["Dolcevita"]
 tag: ["editoriale", "guida michelin", "michelin 2027", "trota salmonata", "autenticità", "territorio", "martedi"]
 sommario: "La trota salmonata è un colore d'allevamento, non una specie. Come l'autenticità di certi stellati Michelin: dichiarata, non praticata."
+copertina: "/img/2026/11/trota-salmonata-filetto.webp"
+alt_copertina: "Filetto di trota salmonata dalla carne rosa, accanto a un esemplare intero su ghiaccio, su ardesia scura"
 slug: "trota-salmonata-il-pesce-che-non-ce"
 ---
 
